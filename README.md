@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[About Me](https://imzxh.cn/about){:target="_blank"}
+[About Me](https://imzxh.cn/about)
