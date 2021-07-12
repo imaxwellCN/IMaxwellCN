@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [About Me](https://imzxh.cn/about)
 
 ## 演示
-![WordPress](https://github.com/imaxwellCN/jiangqie_kafei_maxwell/blob/master/screenshot/code.png) 
+![WordPress](https://imzxh.cn/wp-content/uploads/2020/10/9536424adb72dcb20d31c24c95938fb6.jpg) 
